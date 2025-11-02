@@ -70,6 +70,28 @@ To run the tests:
 npm run test
 ```
 
+## App Preview
+
+### Character Cards
+Displays a grid of Star Wars characters with random images and background colors.
+
+![Character Cards Preview](public/Preview1.png)
+
+---
+
+### Pagination
+Easily navigate through multiple pages of Star Wars characters using pagination controls.
+
+![Pagination Preview](public/Preview2.png)
+
+---
+
+### Character Modal
+Clicking on any character opens a detailed modal with complete character and planet information.
+
+![Modal Preview](public/Preview3.png)
+
+
    
 
 
