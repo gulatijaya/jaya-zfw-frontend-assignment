@@ -64,11 +64,13 @@ Clicking on a character opens a modal with detailed information.
 
 This project includes a simple integration test to verify that the character modal opens correctly.
 
-  1. **Run the development server:**
+To run the tests:
 
-    ```bash
-   npm run dev
-   ```
+```bash
+npm run test
+```
+
+   
 
 
 
